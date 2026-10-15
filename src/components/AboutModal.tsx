@@ -33,7 +33,7 @@ export const AboutModal: React.FC<AboutModalProps> = ({
         <div className="w-10 h-[1.5px] bg-red-700 mb-6" />
 
         <h2 className="font-serif text-3xl sm:text-4xl text-neutral-900 font-normal">
-          ABOUT Luxury Replica Rolex WATCHES
+          ABOUT The Watch Spot NYC
         </h2>
 
         <p className="mt-2 text-xs tracking-[0.2em] uppercase text-neutral-600 font-medium">
@@ -42,7 +42,7 @@ export const AboutModal: React.FC<AboutModalProps> = ({
 
         <div className="mt-8 space-y-6 text-sm text-neutral-600 font-light leading-relaxed">
           <p>
-            Luxury Replica Rolex Watches is founded on an enduring reverence for fine mechanical watchmaking. We curate exceptional timepieces that embody the height of precision engineering, noble metallurgy, and timeless aesthetic restraint.
+            The Watch Spot NYC is founded on an enduring reverence for fine mechanical watchmaking. We curate exceptional timepieces that embody the height of precision engineering, noble metallurgy, and timeless aesthetic restraint.
           </p>
 
           <p>
@@ -56,7 +56,7 @@ export const AboutModal: React.FC<AboutModalProps> = ({
 
         <div className="mt-10 pt-8 border-t border-neutral-200 flex flex-col sm:flex-row sm:items-center justify-between gap-4">
           <div className="text-xs text-neutral-600">
-            <a href="https://www.facebook.com/profile.php?id=61595250874775#" target="_blank" rel="noopener noreferrer" className="hover:text-red-700 transition-colors">Contact Luxury Replica Rolex Watches on Facebook</a>
+            <a href="https://www.facebook.com/profile.php?id=61561375682542" target="_blank" rel="noopener noreferrer" className="hover:text-red-700 transition-colors">Contact The Watch Spot NYC on Facebook</a>
           </div>
 
           <button

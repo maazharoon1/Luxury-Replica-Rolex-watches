@@ -39,7 +39,7 @@ export default function App() {
     return () => window.removeEventListener('hashchange', handleRoute);
   }, []);
   useEffect(() => {
-    document.title = page === 'home' ? 'Luxury Replica Rolex Watches' : `${page === 'about' ? 'Our Story' : 'Checkout'} | Luxury Replica Rolex Watches`;
+    document.title = page === 'home' ? 'The Watch Spot NYC' : `${page === 'about' ? 'Our Story' : 'Checkout'} | The Watch Spot NYC`;
     const section = route.startsWith('/?section=') ? route.split('=')[1] : '';
     if (section) document.getElementById(section)?.scrollIntoView({ behavior: 'instant' });
     else window.scrollTo({ top: 0, behavior: 'instant' });
